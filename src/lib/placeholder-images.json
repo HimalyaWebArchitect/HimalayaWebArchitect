@@ -1,0 +1,50 @@
+{
+  "placeholderImages": [
+    {
+      "id": "portfolio-1",
+      "name": "Lets Travel",
+      "description": "A modern travel blog website showcasing beautiful destinations.",
+      "localPath": "/images/portfolio/1.jpg",
+      "imageHint": "Lets Travel",
+      "demoUrl": "https://letstravel.example.com"
+    },
+    {
+      "id": "portfolio-2",
+      "name":"Gita Insights",
+      "description": "An interactive web companion for exploring the Bhagavad Gita.",
+      "localPath": "/images/portfolio/2.png",
+      "imageHint": "An Interactive Web Companion for the Bhagavad Gita",
+      "demoUrl": "https://gitainsight.netlify.app/"
+    },
+    {
+      "id": "portfolio-3",
+      "name":"Convert Pro",
+      "description": "A document conversion service website offering various file format conversions.",
+      "localPath": "/images/portfolio/3.png",
+      "imageHint": "Professional Document Conversion",
+      "demoUrl": "https://convertfilepro.netlify.app/"
+    },
+    {
+      "id": "portfolio-4",
+      "name":"Tailor CVs",
+      "description": "A resume-building service website offering customizable CV templates.",
+      "localPath": "/images/portfolio/4.png",
+      "imageHint": "Tailor CVs",
+      "demoUrl": "https://tailorcvs.netlify.app/"
+    },
+    {
+      "id": "portfolio-5",
+      "name":"Pareek fire control",
+      "description": "Website for a fire safety equipment company.",
+      "localPath": "/images/portfolio/5.png",
+      "imageHint": "Pareek fire control",
+      "demoUrl": "https://pareekfirecontrol.netlify.app/"
+    },
+    {
+      "id": "contact-map",
+      "description": "Placeholder map for contact section.",
+      "localPath": "/images/portfolio/6.jpg",
+      "imageHint": "city map"
+    }
+  ]
+}
