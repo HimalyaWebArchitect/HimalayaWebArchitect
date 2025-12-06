@@ -23,9 +23,6 @@ export default function Home() {
               <ServicesSection />
             </ScrollAnimation>
             <ScrollAnimation>
-              <PortfolioSection />
-            </ScrollAnimation>
-            <ScrollAnimation>
               <TestimonialsSection />
             </ScrollAnimation>
             <ScrollAnimation>
